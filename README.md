@@ -1,4 +1,6 @@
-Readme changed
+NOTE
+The following exploratory work is the continuation of a current project research with researchers from USC/RAND Emma Aguila, LinkedIn/RAND Osonde Osoba, UTRGV Sylvia Mejia-Arango, and Jorge Peniche. 
+
 BACKGROUND 
 
 By 2050, it is projected that individuals aged 60 and older will constitute 25% of Mexico's population, a demographic shift that is expected to lead to an increase in dementia cases within the country. However, research studies suggest that up to 40% of dementia cases could be either avoided or delayed. Therefore highlighting the importance of analysis focus on this topic. 
