@@ -8,8 +8,8 @@ Cognitive decline is our output variable of interest. It is a categorical variab
 
 There is some cognitive decline that is a normal part of aging. Cognitive impairment is not a normal part of aging and falls in the middle between the normal cognitive decline and dementia. Dementia is the most serious decline that is not normal of the aging process. 
 
-This analysis used pooled longitudinal data from the Mexican Health and Aging Study for years 2012, 2015, and 2018. Descriptive statistics and visualizations were all conducted in python using libraries including but not limited to NumPy, Pandas, Matplotlib, and Seaborn
+This analysis used pooled longitudinal data from the Mexican Health and Aging Study for years 2012, 2015, and 2018. Only features that were available across years were included in the analysis. Descriptive statistics and visualizations were all conducted in python using libraries including but not limited to NumPy, Pandas, Matplotlib, and Seaborn.
 
 LIST OF FEATURES
 
-This analysis uses demographic, economic, health-related, psychological and mental, social and behavioral features. 
+This analysis uses 143 demographic, economic, health-related, social, behavorial, psychological and mental features directly obtained or engineered from the MHAS. 
