@@ -1,4 +1,4 @@
-NOTE: The following exploratory work is the continuation of a current project research with researchers Emma Aguila (USC/RAND), Sylvia Mejia-Arango (UTRGV),  Osonde Osoba (LinkedIn/RAND), and Jorge Peniche. 
+NOTE: The following exploratory work is part of a current research project with researchers Emma Aguila (USC/RAND), Sylvia Mejia-Arango (UTRGV),  Osonde Osoba (LinkedIn/RAND), and Jorge Peniche. 
 
 BACKGROUND 
 
