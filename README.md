@@ -1,5 +1,11 @@
 NOTE: The following exploratory work is part of a current research project with researchers Emma Aguila (USC/RAND), Sylvia Mejia-Arango (UTRGV),  Osonde Osoba (LinkedIn/RAND), and Jorge Peniche. 
 
+FOLDER EXPLANATION
+
+Exploratory analysis and visuals contains the two files necessary to replicate this analysis. First running File 1 (data preprocessing), then File 2 (descriptive statistics and visualizations). 
+
+The folder named Presentation contains the slides developed with this analysis in PDF
+
 BACKGROUND 
 
 By 2050, it is projected that individuals aged 60 and older will constitute 25% of Mexico's population, a demographic shift that is expected to lead to an increase in dementia cases within the country. However, research studies suggest that up to 40% of dementia cases could be either avoided or delayed. Therefore highlighting the importance of analysis focus on this topic. 
